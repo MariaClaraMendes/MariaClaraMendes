@@ -7,8 +7,7 @@ This step is giving me knowlegde to find out solutions and make an impact on bus
 
 ## Connect with me:
 
-GET /{mcmendess}/ Instagram
-maria-clara-silva | LinkedIn
+[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/mcmendess)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/maria-clara-silva)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/MariaClaraMendes)
