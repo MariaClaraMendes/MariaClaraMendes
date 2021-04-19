@@ -7,8 +7,11 @@ This step is giving me knowlegde to find out solutions and make an impact on bus
 
 ## Connect with me:
 
+GET /{mcmendess}/ Instagram
 maria-clara-silva | LinkedIn
-mcmendess | Instagram
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/maria-clara-silva)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/MariaClaraMendes)
 
 ## Languages and tools:
 
