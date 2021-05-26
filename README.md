@@ -11,6 +11,10 @@ This step is giving me knowlegde to find out solutions and make an impact on bus
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/MariaClaraMendes)
 
+## Tools
+
+md = markdown.Markdown(extensions=['iconfonts'])
+converted_text = md.convert(text)
 
 
 
